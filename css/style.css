@@ -1,0 +1,24 @@
+div{
+    background-color: cyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+div:hover{
+    background-color: greenyellow;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+#item, p{
+    color: red;
+}
+div p {
+    background-color: yellow;
+    color: rgb(11, 33, 235);
+}
+span{
+    background-color: red;
+}
